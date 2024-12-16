@@ -12,7 +12,7 @@
   "angle": {
     "type": "sparkmax_brushed",
     "id": 3,
-    "canbus": null
+    "canbus": ""
   },
   "encoder": {
     "type": "attached",
