@@ -12,7 +12,7 @@
   "angle": {
     "type": "sparkmax_brushed",
     "id": 7,
-    "canbus": null
+    "canbus": ""
   },
   "inverted": {
     "angle": true,
